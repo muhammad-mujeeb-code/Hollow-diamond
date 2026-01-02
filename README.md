@@ -1,9 +1,14 @@
 # Hollow-diamond
 C++ code for hollow diamond.
+<br>
 #include <iostream>
+<br>
 using namespace std;
+<br>
 int main(){
+<br>
     int n;
+<br>
 
     cout<<"Enter value of n: ";
     cin>>n;
