@@ -1,6 +1,5 @@
 # Hollow-diamond
 C++ code for hollow diamond.
-<br>
 #include <iostream>
 using namespace std;
 int main(){
